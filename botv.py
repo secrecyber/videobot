@@ -5,7 +5,7 @@ from telegram.ext import (
 )
 
 BOT_TOKEN = "7252155462:AAGkF0objeszRAG_IHSPi6ltsC-Rtx8EKHg"
-KANALLAR = ["@azizbek_cyber"]
+KANALLAR = ["@cybersec_uzbek"]
 INSTAGRAM_LINK = "https://www.instagram.com/aziz_cyber"
 VIDEO_IDS = {
     "1": "BAACAgIAAxkBAANnaEPsuHp3K8xSM0bdC9f6Vc2zcYgAArlIAAI5iYBJ4B7cK7Q7xEs2BA",  # kod: 1
